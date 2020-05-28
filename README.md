@@ -14,7 +14,7 @@ the frontend project was developed in react js using axios to read and send info
 
 <p align="center">
     <img width="850" height="421" src="https://i.imgur.com/eY7jUpw.png">
-    <img width="850" height="421" src="https://i.imgur.com/wSy5jIM.png">
+    <img width="850" height="580" src="https://i.imgur.com/wSy5jIM.png">
     <img width="850" height="421" src="https://i.imgur.com/pcEwqYN.png">
 </p>
 
