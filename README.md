@@ -1,6 +1,6 @@
 # be-the-hero
 
-be the hero is an app to save animals lifes.
+be-the0hero is an app to save animals lifes.
 
 Is An app developed by course of rocketseat.
 
